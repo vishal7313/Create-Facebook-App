@@ -1,5 +1,5 @@
 <%= image_tag @user['picture']['data']['url'].to_s %>
-<script>
-console.log(<%= JSON.parse(@user).to_json %>)
-</script>
+
 <%= @user['name'] %>
+
+<%= @user['movies']['summary']['total_count'] %>
