@@ -4,17 +4,28 @@
     <p class="lead">Terrance & Nick | CSCI 428</p>
   </div>
 </div>
-<div class="container">
+<div style="text-align:center">
   <h1 class="display-4">Pick a framework </h1>
-    <ul>
+    <ul style="display: inline-block; text-align:left">
         <li style="font-size: 1.5em"> Ruby on Rails </li>
-        <li style="font-size: 1.5em"> ASP.NET </li>
-        <li style="font-size: 1.5em"> Django </li>
-        <li style="font-size: 1.5em"> React </li>
-        <li style="font-size: 1.5em"> etc...</li>
+        <li style="font-size: 1.5em;"> ASP.NET </li>
+        <li style="font-size: 1.5em;"> Django </li>
+        <li style="font-size: 1.5em;"> React </li>
+        <li style="font-size: 1.5em;"> etc...</li>
     </ul>
-<div>
-  <%= link_to "Facebook Login", '/auth/facebook' %>
-  <p> Hello </p>
+    </div>
+    <div style="text-align:center">
+      <h1 class="display-4"> Heres whats next... </h1>
+      <p class="lead">
+        Here is some other information we will fill
+       </p>
+
+    </div>
+    <br />
+    <br />
+  <div style="text-align:center">
+    <h1 class="display-3">Try it out for yourself </h1>
+    <p class="lead"> Click this link: </p>
+  <%= link_to "Facebook Login", '/auth/facebook', {style:'font-size:3em'}%>
   <script src="/assets/javascripts/facebook_login.js" type="text/text/javascript"> </script>
 </div>
