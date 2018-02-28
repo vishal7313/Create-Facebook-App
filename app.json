@@ -12,7 +12,7 @@
      },
      "FACEBOOK_SECRET":{
        "description":"Your Facebppk secret Id.",
-       "require": true
+       "require": true    
      }
    }
 }
