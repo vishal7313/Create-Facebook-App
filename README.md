@@ -11,6 +11,4 @@ Once you gave your application a name, and entered your App ID and App Secret, h
 
 Then go to Facebook Login settings on the left panel and enter this for the redirect value:
  <your-app-name>.herokuapp.com/auth/facebook/callback
- 
- <br />
 [![Deploy to Heroku](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy)
