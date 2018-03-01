@@ -1,7 +1,7 @@
 # README
 This 'Deploy' button will allow you to use your App ID and App Secret from your Facebook App dashboard to host your own Facebook app.
 
-You need an Heroku account which is free, and offers many useful tools for computer science students :)
+You need a Heroku account which is free, and offers many useful tools for computer science students :)
 
 Once you click the button, and after you login/make your account, you can enter your App ID and App Secret into the provided boxes on the bottom of the page.
 
