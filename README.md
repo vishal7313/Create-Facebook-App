@@ -5,7 +5,7 @@ You need a Heroku account which is free, and offers many useful tools for comput
 
 Once you click the button, and after you login/make your account, you can enter your App ID and App Secret into the provided boxes on the bottom of the page.
 
-Once you gave your application a name, and entered your App ID and App Secret, head back to the dashboard of your Facebook App and update your app domain and site url with the following information:
+Once you gave your application a name, and entered your App ID and App Secret, head back to the dashboard of your Facebook App and update your <strong>app domain and site url </strong> with the following information:
 
 your-app-name-here.herokuapp.com
 
